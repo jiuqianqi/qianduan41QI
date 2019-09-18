@@ -6,4 +6,6 @@ div {
 p {
     color: skyblue;
     height: 100%;
+    font-size: 66px;
+    line-height: 200px;
 }
